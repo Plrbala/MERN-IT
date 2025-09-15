@@ -15,3 +15,7 @@ npm install dotenv
 
 npm install mongoose
 
+
+
+
+npm run dev
